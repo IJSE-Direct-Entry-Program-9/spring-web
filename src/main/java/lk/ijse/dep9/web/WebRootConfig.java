@@ -1,4 +1,4 @@
-package lk.ijse.dep9;
+package lk.ijse.dep9.web;
 
 import org.springframework.context.annotation.Configuration;
 
